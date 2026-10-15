@@ -1,0 +1,4 @@
+interface:
+  display_name: "实况图 / Live 图"
+  short_description: "将已有配图和视频合成为单文件实况 JPG，并自动校验结构与解码"
+  default_prompt: "使用 $live-photo 将这张配图和视频合成为单文件实况图（Live 图）。"
